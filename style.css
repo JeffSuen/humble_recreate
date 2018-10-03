@@ -1,0 +1,22 @@
+.topmenu {
+  padding: 0px 70px 10px 50px;
+  height: 400px;
+}
+
+
+body  {
+  font-family: 'Poppins';
+  background-color: rgb(73,79,92);
+  background-color: rgb(73,79,92);
+  color: darkslate
+}
+.menuitem {
+  padding: 20px 0px 10px 0px;
+  color: lightgrey;
+  font-weight: bold;
+
+}
+
+.menuDivider  {
+  color: pink;
+}
